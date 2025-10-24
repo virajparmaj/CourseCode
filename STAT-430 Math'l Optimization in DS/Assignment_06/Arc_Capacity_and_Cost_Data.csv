@@ -1,0 +1,10 @@
+out_node,in_node,capacity,cost
+Entry,A,3500,18
+Entry,B,4000,22
+Entry,C,2500,20
+A,D,3000,15
+B,D,2000,28
+B,E,2500,24
+C,E,3000,19
+D,Distribution,4500,21
+E,Distribution,3500,23
