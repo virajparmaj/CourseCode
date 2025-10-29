@@ -1,0 +1,11 @@
+column,dtype,n_missing,pct_missing,out_of_bounds
+TIT,float64,0,0.0,0
+TAT,float64,0,0.0,0
+CDP,float64,0,0.0,0
+AP,float64,0,0.0,0
+AT,float64,0,0.0,0
+AH,float64,0,0.0,245
+AFDP,float64,0,0.0,14310
+GTEP,float64,0,0.0,14310
+TEY,float64,0,0.0,19
+NOX,float64,0,0.0,0

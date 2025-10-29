@@ -53,6 +53,11 @@ The goal is to **fine-tune engineering systems** for an energy provider in Turke
 
 ---
 
+TEMPERATURE AND PRESEURE WE CAN CHCK. CAN GAS COMING OUT BE MODIFIED ?
+
+1. BEST RECOM FOR 
+2. HELP ME INETRPRET DEATA 
+
 ## Data
 **File:** `TurbineGroup2.csv`  
 

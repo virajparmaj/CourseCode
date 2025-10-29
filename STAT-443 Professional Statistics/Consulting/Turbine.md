@@ -1,7 +1,3 @@
-Here’s the turbine’s working in **simple terms**, directly linked to your project and the variables in the screenshot:
-
----
-
 ### **1️⃣ Air Intake & Compression**
 
 * The turbine **pulls in outside air**.
