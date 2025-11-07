@@ -1,4 +1,3 @@
-````markdown
 # 🌀 Turbine NOx Advisor — Model Deployment Guide
 
 ## 1. Overview
@@ -22,7 +21,7 @@ The trained model (`nox_xgb_v1.joblib`) is deployed as an **API backend** connec
 1. Activate your environment and install dependencies:
    ```bash
    pip install -r requirements.txt
-````
+   ````
 
 2. Start the FastAPI server:
 
